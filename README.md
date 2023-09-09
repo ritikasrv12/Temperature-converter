@@ -15,7 +15,7 @@
     3. Select the desired unit (Celsius or Fahrenheit) from the dropdown.
     4. The converted temperature will be displayed instantly below.
 
-   * Technologies Used
+   * Technologies Used:-
       -> HTML5
       -> CSS3
       -> JavaScript
