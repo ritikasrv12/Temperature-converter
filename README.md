@@ -16,8 +16,8 @@
     4. The converted temperature will be displayed instantly below.
 
    * Technologies Used:-
-      -> HTML5
-      -> CSS3
+      -> HTML
+      -> CSS
       -> JavaScript
     
      
